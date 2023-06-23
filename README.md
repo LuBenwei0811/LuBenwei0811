@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Walker1010
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning computer science
 - 👋 I’m a university student
